@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JAHANGIR HUSSEN</h1>
+<h1 align="center">Hi 👋, I'm Md Asadul Islam</h1>
 <h3 align="center">A passionate researcher and programmer from Bangladesh, specializing in Machine Learning, Data Science, and competitive programming (LeetCode, Codeforces, CodeChef)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahangirhussen&label=Profile%20views&color=0e75b6&style=flat" alt="jahangirhussen" /> </p>
@@ -9,9 +9,9 @@
 
 - 🌱 I’m constantly learning and exploring more in Machine Learning, Data Science, and Competitive Programming (LeetCode, Codeforces, CodeChef).
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/jahangirhussen](https://www.kaggle.com/jahangirhussen)
+- 👨‍💻 All of my projects are available at [https://www.kaggle.com/jahangirhussen](https://www.kaggle.com/mdasadulislam5013)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/jahangirhussen/](https://www.linkedin.com/in/jahangirhussen/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/jahangirhussen/](https://www.linkedin.com/in/mdasadulislam5013/)
 
 - 💬 Ask me about anything
 
